@@ -1,7 +1,7 @@
 # 🍲 Cookbook 📖
 
 <div align="center">
-    <a href="https://pi-etro.github.io/cookbook/_site/index.html">https://pi-etro.github.io/cookbook</a>
+    <a href="https://pi-etro.github.io/cookbook">https://pi-etro.github.io/cookbook</a>
 </div>
 <br>
 
