@@ -38,3 +38,18 @@ github_url: https://github.com/pi-etro/cookbook
 # it's correct – the path in particular – since otherwise stuff that shouldn't
 # be deleted or overwritten might indeed be deleted or overwritten!
 deploy_remote:
+
+# Categories to use in the recipes:
+# Aperitivos
+# Lanches
+# Saladas
+# Vegetais
+# Carnes
+# Aves
+# Frutos do Mar
+# Massas
+# Caldos e Sopas
+# Molhos
+# Bebidas
+# Doces e Sobremesas
+# Bolos e Tortas
